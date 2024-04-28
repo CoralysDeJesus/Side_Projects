@@ -1,6 +1,6 @@
 # Side_Projects
 
-A collection of projects I've undertaken for personal enrichment, skill development, and well, fun :d 
+A collection of projects I've undertaken for personal enrichment and skill development.
 Explore, enjoy, and feel free to reach out with any questions or feedback. Thank you for visiting!
 
 | Project number | Title | Description | Tools Used |
